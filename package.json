@@ -1,0 +1,26 @@
+{
+  "name": "yolorequire",
+  "version": "0.1.0",
+  "description": "Never miss a missing dependancy again!",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/melonmanchan/yolorequire.git"
+  },
+  "keywords": [
+    "bad",
+    "idea",
+    "dependancy",
+    "dependancy",
+    "hell"
+  ],
+  "author": "Matti Jokitulppo <melonmanchan@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/melonmanchan/yolorequire/issues"
+  },
+  "homepage": "https://github.com/melonmanchan/yolorequire#readme"
+}
