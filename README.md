@@ -6,7 +6,7 @@ Then look no further than yolorequire!
 Yolorequire turns this...
 
 ```js
-var express = require('express')
+var express = require('express');
 
 ---------------------------------
 
@@ -30,13 +30,18 @@ into this!
 
 
 ```js
-require('yolorequire')()
-var express = require('express')
+require('yolorequire')(['--save', '--save-exact']);
+var express = require('express');
 
 ---------------------------------
 
 Looks like module express was not found! Installing...
 
+<NPM OUTPUT>
 ```
 
-And everything just works again! No biggie!
+And everything is installed and just works again! No biggie!
+
+## Tips and tricks
+
+You can pass command line parameters to npm either as an array of strings or a single string!
