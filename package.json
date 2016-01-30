@@ -1,6 +1,6 @@
 {
   "name": "yolorequire",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Never miss a missing dependancy again!",
   "main": "lib/index.js",
   "scripts": {
