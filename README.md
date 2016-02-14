@@ -42,6 +42,12 @@ Looks like module express was not found! Installing...
 
 And everything is installed and just works again! No biggie!
 
+## How does it work?
+
+Basically, initializing this module extends the existing Node.js require object to automatically install 
+dependancies if the a module by a name is not found. You should probably not use this for any serious project,
+by the way!
+
 ## Tips and tricks
 
 You can pass command line parameters to npm either as an array of strings or a single string!
